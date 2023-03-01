@@ -1,3 +1,5 @@
+Updated for 2/28 both flash sessions
+
 https://HW01-FlaskSite.dcv86.repl.co
 
 https://replit.com/@DCV86/HW01-FlaskSite?v=1
